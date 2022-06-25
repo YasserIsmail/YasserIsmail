@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 **GIS Developer with experience of two years using GIS Development, holds a bachelor's Geographic Information System GIS with an A- grade from University College of Applied Sciences - Gaza, able to provide creative solutions to complex spatial problems beside that I considered myself a forever student so I am always looking to develop more skills.**
 
-### Skils:
+### Skills:
 * GeoSpatial data entry, conversion and maintenance
 * GeoSpatial data ingestion and management
 * GeoSpatial data analysis
