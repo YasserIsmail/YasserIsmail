@@ -42,6 +42,8 @@ You can click the Preview link to take a look at your changes.
 * Bootstrap
 * jQuery
 * scikit-learn
+* pandas
+* PyQGIS
 
 ### Languages:
 * Python
