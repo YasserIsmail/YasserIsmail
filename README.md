@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 * pyproj
 * ArcGIS APIs(Python, JavaScript)
 * ArcGIS Pro
+* ArcGIS Desktop
 * Arcpy
 * QGIS
 * Matplotlib
