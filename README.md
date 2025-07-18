@@ -26,7 +26,7 @@ Passionate about solving complex spatial problems and continuously advancing my 
 
 ---
 
-## 👨‍🏫 Academic Experience
+## 👨‍🏫 Experience
 
 **Teacher Assistant – GIS Department**  
 *University College of Applied Sciences*  
