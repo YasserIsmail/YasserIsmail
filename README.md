@@ -1,54 +1,73 @@
-<!---
-- 👋 Hi, I’m @YasserIsmail
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+# 👨‍💼 Yasser I Barhoom
+**Geospatial Engineer**  
+📞 0595187537  
+📧 yasserism2020@gmail.com  
 
-<!---
-YasserIsmail/YasserIsmail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-**GIS developer with three years of experience using GIS development, holds a bachelor's Geographic Information System GIS with an A- grade from University College of Applied Sciences - Gaza, able to provide creative solutions to complex spatial problems beside that I consider myself a forever student so I am always looking to develop more skills.**
+---
 
-### Skills:
-* GeoSpatial data entry, conversion and maintenance
-* GeoSpatial data ingestion and management
-* GeoSpatial data analysis
-* GeoSpatial data visualization
-* GeoSpatial databases preparing
-* Development of GIS tools and plugins
-* Machine Learning
-* Statistical
-* Digitizing
-* Remote sensing
-* Cartography
-* Teamwork
-* Problem solving
+## 🧭 About Me
 
-### Tools and Frameworks:
-* GeoPandas
-* Shapely
-* Fiona
-* GDAL/OGR
-* pyproj
-* ArcGIS APIs(Python, JavaScript)
-* ArcGIS Pro
-* ArcGIS Desktop
-* Arcpy
-* QGIS
-* Matplotlib
-* Leaflet
-* AutoCAD
-* Bootstrap
-* jQuery
-* scikit-learn
-* pandas
-* PyQGIS
+Geospatial Engineer with more than three years of experience in GIS development and analysis.  
+Top graduate in GIS from the University College of Applied Sciences – Gaza.  
+Currently pursuing a Master’s in Geomatics Engineering.  
+Passionate about solving complex spatial problems and continuously advancing my technical skills.
 
-### Languages:
-* Python
-* JavaScript
-* HTML
-* CSS
+---
+
+## 🎓 Education
+
+- **Master’s Degree in Geomatics Engineering**  
+  *Islamic University of Gaza, Palestine*  
+  Sep 2023 – Present
+
+- **Bachelor of Science in Geographic Information Systems (GIS)**  
+  *University College of Applied Sciences, Gaza, Palestine*  
+  Sep 2018 – Jun 2022  
+  - CGPA: **91.84%**  
+
+---
+
+## 👨‍🏫 Academic Experience
+
+**Teacher Assistant – GIS Department**  
+*University College of Applied Sciences*  
+Sep 2022 – Oct 2023
+
+- Lecturer for:  
+  - "Introduction to Programming with Python"  
+  - "GIS Programming #1"
+
+- Assistant Lecturer for:  
+  - "GIS Advanced"  
+  - "Fundamentals of Remote Sensing"  
+  - "Remote Sensing Applications"
+
+---
+
+## 🧠 Skills
+
+- GIS & Remote Sensing  
+- Data Management, Processing, Analysis & Visualization  
+- Cartography & Digitizing  
+- Development of GIS Tools & Plugins  
+- Machine Learning & Statistics  
+- Enterprise Geodatabase Management  
+- Teaching, Teamwork & Problem Solving  
+- Reporting & Presentation
+
+---
+
+## 💻 Technical Proficiency
+
+**Advanced**  
+`ArcGIS Pro`, `ArcGIS Desktop`, `Python`, `Matplotlib`, `Arcade`, `Arcpy`, `QGIS`, `PyQGIS`, `Pandas`, `Geopandas`, `Fiona`, `Shapely`, `GDAL/OGR`, `Scikit-Learn`, `Pyproj`, `PostGIS`, `Rasterio`, `Leaflet.js`, `ArcGIS API (Python, JS)`, `AutoCAD`, `Numpy`, `OSMnx`, `MS Office`
+
+**Intermediate**  
+`JavaScript`, `HTML`, `CSS`, `Bootstrap`, `jQuery`, `OTB Toolbox`, `NetworkX`, `Django`, `GeoDjango`, `OpenCV`
+
+---
+
+## 🌐 Languages
+
+- **Arabic** – Native  
+- **English** – Very Good  
