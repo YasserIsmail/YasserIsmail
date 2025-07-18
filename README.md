@@ -1,6 +1,5 @@
 # 👨‍💼 Yasser I Barhoom
 **Geospatial Engineer**  
-📞 0595187537  
 📧 yasserism2020@gmail.com  
 
 ---
