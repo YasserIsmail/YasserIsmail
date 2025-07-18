@@ -1,6 +1,5 @@
 # 👨‍💼 Yasser I Barhoom
 **Geospatial Engineer**  
-💬 WhatsApp: [+972567793729](https://wa.me/972567793729)
 📧 yasserism2020@gmail.com  
 
 ---
