@@ -1,12 +1,12 @@
 # 👨‍💼 Yasser I Barhoom
-**Geospatial Engineer**  
+**Geomatics Engineer **  
 📧 yasserism2020@gmail.com  
 
 ---
 
 ## 🧭 About Me
 
-Geospatial Engineer with more than three years of experience in GIS development and analysis,Top graduate in GIS from the University College of Applied Sciences – Gaza, Currently pursuing a Master’s in Geomatics Engineering,Passionate about solving complex spatial problems and continuously advancing my technical skills.
+Geomatics Engineer  with more than three years of experience in GIS development and analysis,Top graduate in GIS from the University College of Applied Sciences – Gaza, Currently pursuing a Master’s in Geomatics Engineering,Passionate about solving complex spatial problems and continuously advancing my technical skills.
 
 ---
 
